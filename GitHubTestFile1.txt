@@ -2,6 +2,5 @@ This is test file 1.
 
 Thanks!
 
-Here is my change on rashmi-branch
 
 Hi!
